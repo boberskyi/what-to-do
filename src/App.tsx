@@ -14,7 +14,7 @@ const App = () => {
 }
 
 const ContainerStyled = styled.div`
-  
+
 `
 
 export default App;
